@@ -67,8 +67,8 @@ Where:
    [https://turtlebot.github.io/turtlebot4-user-manual/](https://turtlebot.github.io/turtlebot4-user-manual/)  
    (Robot platform specifications and simulation setup)
 
-3. **ROS2 Humble Documentation**  
-   [https://docs.ros.org/en/humble/](https://docs.ros.org/en/humble/)  
+3. **ROS2 Jazzy Documentation**  
+   [https://docs.ros.org/en/jazzy/](https://docs.ros.org/en/jazzy/)  
    (Framework documentation)
 
 ## Citation

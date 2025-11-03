@@ -1,6 +1,6 @@
 # TurtleBot4 Controller Simulation
 
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)](https://docs.ros.org/en/humble/)
+[![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue.svg)](https://docs.ros.org/en/jazzy/)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -26,8 +26,8 @@ This project contains a **trajectory tracking controller** for the TurtleBot4 ro
 
 ### System Requirements
 
-- **OS**: Ubuntu 22.04 (Jammy) or later
-- **ROS2**: Humble or later
+- **OS**: Ubuntu 24.04 (Noble) or later
+- **ROS2**: Jazzy or later
 - **Python**: 3.10+
 
 ### Dependencies
@@ -48,7 +48,7 @@ If you don't have the TurtleBot4 simulator installed:
 ```bash
 # Install TurtleBot4 simulator packages
 sudo apt update
-sudo apt install ros-humble-turtlebot4-simulator
+sudo apt install ros-jazzy-turtlebot4-simulator
 ```
 
 Install Python dependencies (if not already installed):
@@ -327,7 +327,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Key References
 
 - [TurtleBot4 Documentation](https://turtlebot.github.io/turtlebot4-user-manual/)
-- [ROS2 Humble Documentation](https://docs.ros.org/en/humble/)
+- [ROS2 Jazzy Documentation](https://docs.ros.org/en/jazzy/)
 - Kim, M.-S., Shin, J.-H., Hong, S.-G., & Lee, J.-J. (2004). "Designing a robust adaptive dynamic controller for nonholonomic mobile robots under modeling uncertainty and disturbances." *Mechatronics*, 14(5), 481-495. DOI: [10.1016/j.mechatronics.2003.10.006](https://doi.org/10.1016/j.mechatronics.2003.10.006)
 - Kanayama, Y., et al. (1990). "A stable tracking control method for an autonomous mobile robot." *IEEE International Conference on Robotics and Automation*.
 
