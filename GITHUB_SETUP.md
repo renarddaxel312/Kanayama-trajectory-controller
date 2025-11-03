@@ -36,7 +36,7 @@ After creating the repository on GitHub, you'll see instructions. Use these comm
 
 ```bash
 # Add the remote repository
-git remote add origin https://github.com/renarddaxel312/Sensor_ws.git
+git remote add origin https://github.com/renarddaxel312/Kanayama-trajectory-controller.git
 
 # Verify the remote was added
 git remote -v
@@ -84,13 +84,13 @@ cat ~/.ssh/id_ed25519.pub
 
 4. Use SSH remote instead:
 ```bash
-git remote set-url origin git@github.com:renarddaxel312/Sensor_ws.git
+git remote set-url origin git@github.com:renarddaxel312/Kanayama-trajectory-controller.git
 git push -u origin main
 ```
 
 ## Step 4: Verify Upload
 
-1. Go to [https://github.com/renarddaxel312/Sensor_ws](https://github.com/renarddaxel312/Sensor_ws)
+1. Go to [https://github.com/renarddaxel312/Kanayama-trajectory-controller](https://github.com/renarddaxel312/Kanayama-trajectory-controller)
 2. You should see:
    - ✅ Your README with badges and proper citations
    - ✅ Source code in `src/` directory

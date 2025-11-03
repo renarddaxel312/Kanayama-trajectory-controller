@@ -61,8 +61,8 @@ sudo apt install python3-numpy python3-matplotlib
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/renarddaxel312/Sensor_ws.git
-cd Sensor_ws
+git clone https://github.com/renarddaxel312/Kanayama-trajectory-controller.git
+cd Kanayama-trajectory-controller
 ```
 
 2. **Build the packages**:
@@ -334,7 +334,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For issues or questions:
-- Open an [issue](https://github.com/renarddaxel312/Sensor_ws/issues) on GitHub
+- Open an [issue](https://github.com/renarddaxel312/Kanayama-trajectory-controller/issues) on GitHub
 - Check ROS2 logs in the `log/` directory
 - Review controller output in the terminal
 - Check Gazebo console for simulation errors

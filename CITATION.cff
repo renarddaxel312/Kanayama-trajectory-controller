@@ -6,7 +6,7 @@ date-released: 2025-11-03
 authors:
   - family-names: "Renard"
     given-names: "Axel"
-repository-code: "https://github.com/renarddaxel312/Sensor_ws"
+repository-code: "https://github.com/renarddaxel312/Kanayama-trajectory-controller"
 license: MIT
 keywords:
   - robotics

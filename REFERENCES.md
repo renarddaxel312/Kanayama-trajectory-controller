@@ -98,7 +98,7 @@ If you use this implementation in your research, please cite both the original p
   author = {Renard, Axel},
   title = {TurtleBot4 Robust Adaptive Dynamic Controller},
   year = {2025},
-  url = {https://github.com/renarddaxel312/Sensor_ws},
+  url = {https://github.com/renarddaxel312/Kanayama-trajectory-controller},
   version = {1.0.0},
   license = {MIT}
 }
@@ -106,7 +106,7 @@ If you use this implementation in your research, please cite both the original p
 
 ## Contact
 
-For questions about this implementation, please open an issue on the [GitHub repository](https://github.com/renarddaxel312/Sensor_ws/issues).
+For questions about this implementation, please open an issue on the [GitHub repository](https://github.com/renarddaxel312/Kanayama-trajectory-controller/issues).
 
 For questions about the original research, please contact the authors through their institutions or refer to the published paper.
 
