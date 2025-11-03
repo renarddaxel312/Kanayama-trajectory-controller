@@ -81,7 +81,7 @@ source install/setup.bash
 Open a terminal and run:
 
 ```bash
-cd ~/Sensor_ws  # Navigate to your workspace
+cd ~/cd Kanayama-trajectory-controller  # Navigate to your workspace
 source install/setup.bash
 ros2 launch turtlebot4_gz_bringup turtlebot4_gz.launch.py world:=empty sensors:=false dock:=false
 ```
@@ -98,7 +98,7 @@ Wait for Gazebo to fully load before proceeding to the next step.
 Open a **new terminal** and run:
 
 ```bash
-cd ~/Sensor_ws  # Navigate to your workspace
+cd ~/cd Kanayama-trajectory-controller  # Navigate to your workspace
 source install/setup.bash
 ros2 run controller_node controller_node
 ```
@@ -254,7 +254,7 @@ None - The controller runs in open-loop with simulated state estimation.
 ## Project Structure
 
 ```
-Sensor_ws/
+Kanayama-trajectory-controller/
 ├── src/
 │   ├── controller_node/
 │   │   ├── controller_node/
