@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the underlying research paper."
+title: "TurtleBot4 Robust Adaptive Dynamic Controller"
+version: 1.0.0
+date-released: 2025-11-03
+authors:
+  - family-names: "Renard"
+    given-names: "Axel"
+repository-code: "https://github.com/renarddaxel312/Sensor_ws"
+license: MIT
+keywords:
+  - robotics
+  - ros2
+  - turtlebot4
+  - trajectory-tracking
+  - adaptive-control
+  - nonholonomic-systems
+  - gazebo
+preferred-citation:
+  type: article
+  title: "Designing a robust adaptive dynamic controller for nonholonomic mobile robots under modeling uncertainty and disturbances"
+  authors:
+    - family-names: "Kim"
+      given-names: "Min-Soeng"
+    - family-names: "Shin"
+      given-names: "Jin-Ho"
+    - family-names: "Hong"
+      given-names: "Sun-Gi"
+    - family-names: "Lee"
+      given-names: "Ju-Jang"
+  journal: "Mechatronics"
+  volume: 14
+  issue: 5
+  start: 481
+  end: 495
+  year: 2004
+  doi: 10.1016/j.mechatronics.2003.10.006
+  publisher:
+    name: "Elsevier"
+
