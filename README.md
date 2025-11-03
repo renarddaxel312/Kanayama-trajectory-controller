@@ -8,7 +8,7 @@
 
 This project contains a **trajectory tracking controller** for the TurtleBot4 robot in Gazebo simulation. The controller implements a **robust adaptive dynamic controller** based on the methodology by Kim et al. (2004) to follow predefined trajectories (circular or figure-8 patterns) with real-time visualization, handling modeling uncertainties and disturbances.
 
-![Trajectory Tracking Demo](https://img.shields.io/badge/Demo-Video-red.svg)
+
 
 ### Features
 
