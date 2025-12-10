@@ -311,7 +311,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 **Axel Renard** ([@renarddaxel312](https://github.com/renarddaxel312))
-**Rayane Yettefti** ([@TeslaYet]((https://github.com/TeslaYet))
+**Rayane Yettefti** ([@TeslaYet](https://github.com/TeslaYet)
 
 ## Acknowledgments
 
