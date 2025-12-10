@@ -308,9 +308,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## Authors
 
 **Axel Renard** ([@renarddaxel312](https://github.com/renarddaxel312))
+**Rayane Yettefti** ([@TeslaYet]((https://github.com/TeslaYet)))
 
 ## Acknowledgments
 
